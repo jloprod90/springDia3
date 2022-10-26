@@ -42,6 +42,16 @@
 			<artifactId>saludo-autoconfigure</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
+		<!-- DEPENDENCIA ACTUATOR -->
+		<dependency>
+			<groupId>org.springframework.boot</groupId>
+			<artifactId>spring-boot-starter-actuator</artifactId>
+		</dependency>
+        <!--PROMETHEUS-->
+		<dependency>
+			<groupId>io.micrometer</groupId>
+			<artifactId>micrometer-registry-prometheus</artifactId>
+		</dependency>
 <!--		<dependency>
 			<groupId>com.nttdata.bootcamp</groupId>
 			<artifactId>temperatura-spring-autoconfigure</artifactId>

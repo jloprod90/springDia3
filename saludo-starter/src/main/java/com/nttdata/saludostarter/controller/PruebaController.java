@@ -1,3 +1,4 @@
+/*
 package com.nttdata.saludostarter.controller;
 
 import com.nttdata.saludoidioma.Saludo;
@@ -16,3 +17,4 @@ public class PruebaController {
         return saludo.mensajeSaludo();
     }
 }
+*/
